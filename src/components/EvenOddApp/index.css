@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #334155;
+  margin: 10px;
+  border-radius: 20px;
+}
+.heading {
+  color: black;
+  font-size: 30px;
+}
+.btn {
+  padding: 10px;
+  border-radius: 20px;
+  border-width: 0px;
+}
